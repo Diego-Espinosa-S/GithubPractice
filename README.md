@@ -93,7 +93,7 @@ Finalmente, revisa el archivo `README.md` en tu máquina local. El cambio que hi
 
 ## 10. Descartar y Revertir Cambios
 
-Una gran ventaja de trabajar con un sistema de control de versiones como g
+Una gran ventaja de trabajar con un sistema de control de versiones como git es que puedes deshacer errores fácilmente volviendo a la última versión "buena" de tu proyecto. Hay múltiples maneras de hacerlo. Nos enfocaremos en dos.
 
 ### Descartar
 
